@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Computer Vision focused on clinical trials and microbiology.**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/%C3%A1lvaro-gra%C3%A7a/](https://www.linkedin.com/in/%C3%A1lvaro-gra%C3%A7a/)
+- 👨‍💻 Some of my projects are available at [https://www.linkedin.com/in/%C3%A1lvaro-gra%C3%A7a/](https://www.linkedin.com/in/%C3%A1lvaro-gra%C3%A7a/)
 
 - 📫 How to reach me **alvaro.ps.graca@gmail.com**
 
