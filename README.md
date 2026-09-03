@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Álvaro</h1>
-<h3 align="center">A passionate Data Scientist from Portugal.</h3>
+<h1>Hello fellow nerd, I'm Álvaro</h1>
 
 - 🔭 In my corporate era, down at [TomTom.](https://www.tomtom.com/)
 
